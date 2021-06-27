@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Image_Inversion
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ makeInversion(edu.duke.ImageResource)
+comment2.params=inImage\ name\ accion
+comment2.target=void\ SaveCopyImage(edu.duke.ImageResource,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ selecAndConvert()
+numComments=4
